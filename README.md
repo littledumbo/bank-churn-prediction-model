@@ -8,6 +8,5 @@ The workflow includes data preprocessing, feature engineering, baseline modeling
 Cross-validation ensures robust evaluation, and hyperparameter tuning is automated using tools like GridSearchCV.
 
 Evaluation metrics such as AUC, Accuracy, and MAE are carefully selected and justified based on the business context. 
-The repository includes detailed scripts for preprocessing, training, and result analysis, ensuring a reproducible methodology. 
 This approach provides actionable insights for retention strategies to enhance customer satisfaction and reduce churn.
 
